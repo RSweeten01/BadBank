@@ -75,7 +75,7 @@ const Withdraw = () => {
 									onChange={(e) => setWithdraw(e.currentTarget.value)}
 								/>
 								<p className='invisible' id='success'>
-									Successful deposit
+									Successful withdraw
 								</p>
 							</div>
 							<button
