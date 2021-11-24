@@ -1,5 +1,4 @@
 # Good Bank (formally Bad Bank)
-
 ## Description
 
 The Good/Bad Bank appliction has been made as a demonstration of the MERN Stack skills covered during the MIT xPro MERN Fullstack development course. The appliction started as a frontend only banking appliction with no meaningful security measure but has seen grown to a Fullstack appliction with a frontend, server, and database all utilizing authentation securty measures to secure user data.
@@ -21,10 +20,13 @@ React, Express, NodeJS, MongoDB, FireBase
 
 ## Features
 Full Banking experince (all simulated no actual banking is preformed)
+
 -Add backend
+
 -Add Auth process
 
 ## MIT License copyright <2021> <Robert Sweeten>
+  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
